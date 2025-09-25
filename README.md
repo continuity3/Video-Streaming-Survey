@@ -20,7 +20,7 @@ A curated survey on **Video Streaming + AI/ML techniques**, covering codecs, ada
 
 
 ### Multimodal LLMs for Streaming
-1. `[CVPR'24]` VideoLLM-online: Online Large Language Model for Streaming Video [[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_VideoLLM-online_Online_Video_Large_Language_Model_for_Streaming_Video_CVPR_2024_paper)], [Code](https://showlab.github.io/videollm-online/)]
+1. `[CVPR'24]` VideoLLM-online: Online Large Language Model for Streaming Video [[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_VideoLLM-online_Online_Video_Large_Language_Model_for_Streaming_Video_CVPR_2024_paper)], [[Code](https://showlab.github.io/videollm-online/)]
 
 ### Streaming Production & Devices
 
