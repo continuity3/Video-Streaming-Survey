@@ -3,12 +3,13 @@
 A curated survey on **Video Streaming + AI/ML techniques**, covering codecs, adaptive bitrate (ABR), QoE optimization, protocols, CDN & edge computing.
 
 ## 📌 Tavle of Contents
-- [Codecs & Content-Aware Encoding](Codecs & Content-Aware Encoding)
-- [AI-Driven Streaming](docs/ai-streaming.md)
-- [Multimodal LLMs for Streaming](docs/multimodal-llm.md)
-- [Streaming Production & Devices](docs/production.md)
-- [Benchmarks, Datasets & Future Directions](docs/future.md)
+- [Codecs & Content-Aware Encoding](#codecs--content-aware-encoding)
+- [AI-Driven Streaming](#ai-driven-streaming)
+- [Multimodal LLMs for Streaming](#multimodal-llms-for-streaming)
+- [Streaming Production & Devices](#streaming-production--devices)
+- [Benchmarks, Datasets & Future Directions](#benchmarks-datasets--future-directions)
 ## 📄 Paper List
+### Survey of Streaming Video
 - [Awesome Video Streaming Papers](docs/survey.md)
 
 
