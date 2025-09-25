@@ -10,8 +10,7 @@ A curated survey on **Video Streaming + AI/ML techniques**, covering codecs, ada
 - [Benchmarks, Datasets & Future Directions](#benchmarks-datasets--future-directions)
 ## 📄 Paper List
 ### Survey of Streaming Video
-- [Awesome Video Streaming Papers](docs/survey.md)
-
+ 1. `[CVPR'24]` AnEnd-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial [[PDF](https://arxiv.org/pdf/2403.05192)]
 
 ### Codecs & Content-Aware Encoding
 
