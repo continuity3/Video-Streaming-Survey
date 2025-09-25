@@ -16,7 +16,7 @@ A curated survey on **Video Streaming + AI/ML techniques**, covering codecs, ada
  2. `['COMSNETS'24]` Quality of Experience in Video Streaming: Status Quo, Pitfalls, and Guidelines [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10427330)]
 
 ### Codecs & Content-Aware Encoding
-
+ 1. `['ACM'23]` Empowerment of Atypical Viewers via Low-Effort Personalized Modeling of Video Streaming Quality [[PDF](https://dl-acm-org.sheffield.idm.oclc.org/doi/pdf/10.1145%2F3629139)]
 
 ### AI-Driven Streaming
 
