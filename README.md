@@ -1,8 +1,11 @@
 # Video-Streaming-Survey
 
 # Awesome Next-Gen Video Streaming 🚀🎥🌐🤖
+This is a repository for collecting resources about **Video Streaming** and its **next-generation evolution**.  
+Unlike traditional surveys that only focus on codecs, ABR, and QoE, this repo aims to **bridge the gap** between  
+classic streaming techniques and **modern AI/ML-based methods**, especially the integration with  
+**Multimodal Large Models (VLMs/VLAs)** and **intelligent production devices**.
 
-A curated survey on **Video Streaming + AI/ML techniques**, covering codecs, adaptive bitrate (ABR), QoE optimization, protocols, CDN & edge computing.
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
