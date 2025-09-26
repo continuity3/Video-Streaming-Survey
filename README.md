@@ -13,7 +13,6 @@ A curated survey on **Video Streaming + AI/ML techniques**, covering codecs, ada
 - [Production Devices and Application Scenarios](#production-devices-and-application-scenarios)
 - [Challenges and Future Directions](#challenges-and-future-directions)
 
-- 
 ## 📄 Paper List
 ### Survey of Streaming Video
  1. `['ACM'24]` An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial [[PDF](https://arxiv.org/pdf/2403.05192)]
