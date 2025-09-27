@@ -30,8 +30,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
  2. `['IEEE Trans. Multimedia'23]` RAV: Learning-Based Adaptive Streaming to Coordinate the Audio and Video Bitrate Selections [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9854189&tag=1)]
  3. `['IEEE Trans. Netw. Serv. Manage.'24]` MEC-Based Super-Resolution Enhanced Adaptive Video Streaming Optimization for Mobile Networks With Satellite Backhaul [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10473143)]
  4. `['ACM MMSys.'24]` OASIS: Collaborative Neural-Enhanced Mobile Video Streaming [[PDF](https://dl-acm-org.sheffield.idm.oclc.org/doi/pdf/10.1145/3625468.3647610)]
-
-### Large Multimodal Models for Streaming
+ 5. `['IEEE IWCMC.'24]` EASR: Enabling Neural-Enhanced Video Streaming on Mobile Devices with Edge Assistance [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10592463&tag=1)]
+ 6. `['IEEE Transactions on Mobile Computing.'25]` REM: Enabling Real-Time Neural-Enhanced Video Streaming on Mobile Devices Using Macroblock-Aware Lookup Table [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10750425)]
 
 
 ### Multimodal LLMs for Streaming
