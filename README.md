@@ -35,7 +35,11 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 
 
 ### Multimodal LLMs for Streaming
-1. `[CVPR'24]` VideoLLM-online: Online Large Language Model for Streaming Video [[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_VideoLLM-online_Online_Video_Large_Language_Model_for_Streaming_Video_CVPR_2024_paper)], [[Code](https://showlab.github.io/videollm-online/)]
+1. `['CVPR'24]` VideoLLM-online: Online Large Language Model for Streaming Video [[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_VideoLLM-online_Online_Video_Large_Language_Model_for_Streaming_Video_CVPR_2024_paper)], [[Code](https://showlab.github.io/videollm-online/)]
+2. `['CVPR'25]` Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_Dispider_Enabling_Video_LLMs_with_Active_Real-Time_Interaction_via_Disentangled_CVPR_2025_paper.pdf)], [[Code](https://github.com/Mark12Ding/Dispider)]
+3. `['CVPR'25]` LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_Dispider_Enabling_Video_LLMs_with_Active_Real-Time_Interaction_via_Disentangled_CVPR_2025_paper.pdf)], [[Code](https://showlab.github.io/livecc/)]
+4. `['arXiv'25]` TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[PDF](https://arxiv.org/pdf/2504.17343)], [[Code](https://github.com/yaolinli/TimeChat-Online)]
+5. `['CVPR'25]` TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_OmniMMI_A_Comprehensive_Multi-modal_Interaction_Benchmark_in_Streaming_Video_Contexts_CVPR_2025_paper.pdf)], [[Code](https://omnimmi.github.io/)]
 
 
 ### Production Devices and Application Scenarios
