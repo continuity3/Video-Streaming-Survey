@@ -13,7 +13,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 - [Introduction](#introduction)
 - [Traditional Methods](#traditional-methods)
 - [Machine Learning-based Methods](#machine-learning-based-methods)
-- [Large Multimodal Models for Streaming](#large-multimodal-models-for-streaming)
+- [Multimodal LLMs for Streaming](#Multimodal-LLMs-for-Streaming)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Production Devices and Application Scenarios](#production-devices-and-application-scenarios)
 - [Challenges and Future Directions](#challenges-and-future-directions)
@@ -43,6 +43,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 6. `['arXiv'25]` VideoLLaMB: Long Streaming Video Understanding with Recurrent Memory Bridges [[PDF](https://arxiv.org/pdf/2409.01071)], [[Code](https://github.com/bigai-nlco/VideoLLaMB)]
 7. `['EMNLP'24]` Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge [[PDF](https://aclanthology.org/2024.emnlp-main.556.pdf)], [[Code](https://github.com/bigai-nlco/VideoTGB)]
 
+### Datasets and Benchmark
 
 ### Production Devices and Application Scenarios
 
