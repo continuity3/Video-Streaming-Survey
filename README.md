@@ -42,7 +42,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 5. `['CVPR'25]` OmniMMI:AComprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_OmniMMI_A_Comprehensive_Multi-modal_Interaction_Benchmark_in_Streaming_Video_Contexts_CVPR_2025_paper.pdf)], [[Code](https://omnimmi.github.io/)]
 6. `['arXiv'25]` VideoLLaMB: Long Streaming Video Understanding with Recurrent Memory Bridges [[PDF](https://arxiv.org/pdf/2409.01071)], [[Code](https://github.com/bigai-nlco/VideoLLaMB)]
 7. `['EMNLP'24]` Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge [[PDF](https://aclanthology.org/2024.emnlp-main.556.pdf)], [[Code](https://github.com/bigai-nlco/VideoTGB)]
-8. `['ICLR'25]`  STREAMING VIDEO QUESTION-ANSWERING WITH IN-CONTEXT VIDEO KV-CACHE RETRIEVAL [[PDF](https://arxiv.org/pdf/2503.00540)], [[Code](https://github.com/bigai-nlco/VideoTGB)]
+8. `['ICLR'25]`  STREAMING VIDEO QUESTION-ANSWERING WITH IN-CONTEXT VIDEO KV-CACHE RETRIEVAL [[PDF](https://arxiv.org/pdf/2503.00540)]
 
 ### Datasets and Benchmark
 
