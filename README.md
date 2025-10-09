@@ -23,6 +23,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
  2. `['COMSNETS'24]` Quality of Experience in Video Streaming: Status Quo, Pitfalls, and Guidelines [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10427330)]
 
 ### Traditional Methods
+ 1. `['arXiv'13]` Probe and Adapt: Rate Adaptation for HTTP Video Streaming At Scale [[PDF](https://arxiv.org/pdf/1305.0510)]
+ 2. `['ACM'16]` ABuffer-Based Approach to Rate Adaptation:Evidence from a Large Video Streaming Service [[PDF](https://dl.acm.org/doi/pdf/10.1145/2619239.2626296)] 
 
 ### Machine Learning-based Methods
  1. `['ACM'23]` Empowerment of Atypical Viewers via Low-Effort Personalized Modeling of Video Streaming Quality [[PDF](https://dl-acm-org.sheffield.idm.oclc.org/doi/pdf/10.1145%2F3629139)]
@@ -32,6 +34,9 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
  5. `['IEEE IWCMC.'24]` EASR: Enabling Neural-Enhanced Video Streaming on Mobile Devices with Edge Assistance [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10592463&tag=1)]
  6. `['IEEE Transactions on Mobile Computing.'25]` REM: Enabling Real-Time Neural-Enhanced Video Streaming on Mobile Devices Using Macroblock-Aware Lookup Table [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10750425)]
  7. `['IEEE Conference on Computer Communications.'24]` Dancing with Shackles, Meet the Challenge of Industrial Adaptive Streaming via Offline Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10621126)]
+ 8. `['arXiv.'22]` ECAS-ML: Edge Computing Assisted Adaptation Scheme with Machine Learning for HTTP Adaptive Streaming [[PDF](https://arxiv.org/pdf/2201.04488)]
+ 9. `['arXiv.'20]` Real-world Video Adaptation with Reinforcement Learning [[PDF](https://export.arxiv.org/pdf/2008.12858v1)]
+ 10. `['arXiv.'23]` Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance [[PDF](https://arxiv.org/pdf/2304.04637)]
 
 
 ### Multimodal LLMs for Streaming
@@ -52,7 +57,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 2. `['CVPR'25]`OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding? [[PDF](https://arxiv.org/pdf/2501.05510)], [[Code](https://github.com/JoeLeelyf/OVO-Bench)]
 3. `['arXiv'25]`StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2411.03628)], [[Code](https://github.com/THUNLP-MT/StreamingBench)]
 4. `['arXiv'25]`Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method [[PDF](https://arxiv.org/pdf/2501.00584v1)], [[Code](https://videochat-online.github.io/)]
-4. `['arXiv'24]`Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams [[PDF](https://arxiv.org/pdf/2406.08085)], [[Code](https://invinciblewyq.github.io/vstream-page/)]
+5. `['arXiv'24]`Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams [[PDF](https://arxiv.org/pdf/2406.08085)], [[Code](https://invinciblewyq.github.io/vstream-page/)]
 
 
 ### Challenges and Future Directions
