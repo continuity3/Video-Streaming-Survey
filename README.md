@@ -51,6 +51,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 1. `['arXiv.'25]`LongViTU: Instruction Tuning for Long-Form Video Understanding [[PDF](https://arxiv.org/pdf/2501.05037)], [[Code](https://rujiewu.github.io/LongViTU.github.io/)]
 2. `['CVPR'25]`OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding? [[PDF](https://arxiv.org/pdf/2501.05510)], [[Code](https://github.com/JoeLeelyf/OVO-Bench)]
 3. `['arXiv'25]`StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2411.03628)], [[Code](https://github.com/THUNLP-MT/StreamingBench)]
+4. `['arXiv'25]`Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method [[PDF](https://arxiv.org/pdf/2501.00584v1)], [[Code](https://videochat-online.github.io/)]
+4. `['arXiv'24]`Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams [[PDF](https://arxiv.org/pdf/2406.08085)], [[Code](https://invinciblewyq.github.io/vstream-page/)]
 
 
 ### Challenges and Future Directions
