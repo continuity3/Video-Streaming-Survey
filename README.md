@@ -45,6 +45,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 7. `['EMNLP'24]` Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge [[PDF](https://aclanthology.org/2024.emnlp-main.556.pdf)], [[Code](https://github.com/bigai-nlco/VideoTGB)]
 8. `['ICLR'25]`  STREAMING VIDEO QUESTION-ANSWERING WITH IN-CONTEXT VIDEO KV-CACHE RETRIEVAL [[PDF](https://arxiv.org/pdf/2503.00540)]
 9. `['CVPR'25]`   BIMBA:Selective-Scan Compression for Long-Range Video Question Answering [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Islam_BIMBA_Selective-Scan_Compression_for_Long-Range_Video_Question_Answering_CVPR_2025_paper.pdf)], [[Code](https://sites.google.com/view/bimba-mllm)]
+10. `['arXiv.'25]` InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions [[PDF](https://arxiv.org/abs/2412.09596)], [[Code](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)]
 
 ### Datasets and Benchmark
 1. `['arXiv.'25]`LongViTU: Instruction Tuning for Long-Form Video Understanding [[PDF](https://arxiv.org/pdf/2501.05037)], [[Code](https://rujiewu.github.io/LongViTU.github.io/)]
