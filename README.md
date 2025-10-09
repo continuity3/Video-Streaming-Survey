@@ -15,7 +15,6 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 - [Machine Learning-based Methods](#machine-learning-based-methods)
 - [Multimodal LLMs for Streaming](#Multimodal-LLMs-for-Streaming)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
-- [Production Devices and Application Scenarios](#production-devices-and-application-scenarios)
 - [Challenges and Future Directions](#challenges-and-future-directions)
 
 ## 📄 Paper List
@@ -53,7 +52,6 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 2. `['CVPR'25]`OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding? [[PDF](https://arxiv.org/pdf/2501.05510)], [[Code](https://github.com/JoeLeelyf/OVO-Bench)]
 3. `['arXiv'25]`StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2411.03628)], [[Code](https://github.com/THUNLP-MT/StreamingBench)]
 
-### Production Devices and Application Scenarios
 
 ### Challenges and Future Directions
 
