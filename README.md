@@ -44,8 +44,12 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 6. `['arXiv'25]` VideoLLaMB: Long Streaming Video Understanding with Recurrent Memory Bridges [[PDF](https://arxiv.org/pdf/2409.01071)], [[Code](https://github.com/bigai-nlco/VideoLLaMB)]
 7. `['EMNLP'24]` Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge [[PDF](https://aclanthology.org/2024.emnlp-main.556.pdf)], [[Code](https://github.com/bigai-nlco/VideoTGB)]
 8. `['ICLR'25]`  STREAMING VIDEO QUESTION-ANSWERING WITH IN-CONTEXT VIDEO KV-CACHE RETRIEVAL [[PDF](https://arxiv.org/pdf/2503.00540)]
+9. `['CVPR'25]`   BIMBA:Selective-Scan Compression for Long-Range Video Question Answering [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Islam_BIMBA_Selective-Scan_Compression_for_Long-Range_Video_Question_Answering_CVPR_2025_paper.pdf)], [[Code](https://sites.google.com/view/bimba-mllm)]
 
 ### Datasets and Benchmark
+1. `['arXiv.'25]`LongViTU: Instruction Tuning for Long-Form Video Understanding [[PDF](https://arxiv.org/pdf/2501.05037)], [[Code](https://rujiewu.github.io/LongViTU.github.io/)]
+2. `['CVPR'25]`OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding? [[PDF](https://arxiv.org/pdf/2501.05510)], [[Code](https://github.com/JoeLeelyf/OVO-Bench)]
+3. `['arXiv'25]`StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2411.03628)], [[Code](https://github.com/THUNLP-MT/StreamingBench)]
 
 ### Production Devices and Application Scenarios
 
