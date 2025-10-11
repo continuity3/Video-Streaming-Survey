@@ -37,6 +37,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
  8. `['arXiv.'22]` ECAS-ML: Edge Computing Assisted Adaptation Scheme with Machine Learning for HTTP Adaptive Streaming [[PDF](https://arxiv.org/pdf/2201.04488)]
  9. `['arXiv.'20]` Real-world Video Adaptation with Reinforcement Learning [[PDF](https://export.arxiv.org/pdf/2008.12858v1)]
  10. `['arXiv.'23]` Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance [[PDF](https://arxiv.org/pdf/2304.04637)]
+ 11. `['ACM Multimedia'22]` Real-time Streaming Video Denoising with Bidirectional Buffers [[PDF](https://arxiv.org/pdf/2207.06937)], [[Code](https://github.com/ChenyangQiQi/BSVD)]
+ 12. `['IEEE Conference on Computer Vision.'22]` Label-Efficient Online Continual Object Detection in Streaming Video [[PDF](https://arxiv.org/pdf/2206.00309)], [[Code](https://github.com/showlab/Efficient-CLS)]
 
 
 ### Multimodal LLMs for Streaming
@@ -51,6 +53,13 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 9. `['CVPR'25]`   BIMBA:Selective-Scan Compression for Long-Range Video Question Answering [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Islam_BIMBA_Selective-Scan_Compression_for_Long-Range_Video_Question_Answering_CVPR_2025_paper.pdf)], [[Code](https://sites.google.com/view/bimba-mllm)]
 10. `['arXiv.'25]` InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions [[PDF](https://arxiv.org/abs/2412.09596)], [[Code](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)]
 11. `['arXiv'25]` VideoMind: AChain-of-LoRAAgent for Long Video Reasoning [[PDF](https://arxiv.org/pdf/2503.13444)], [[Code](https://huggingface.co/spaces/yeliudev/VideoMind-2B)]
+12. `['arXiv'24]` Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving [[PDF](https://arxiv.org/pdf/2409.11182)]
+13. `['arXiv'24]` Streaming Long Video Understanding with Large Language Models [[PDF](https://arxiv.org/pdf/2405.16009)]
+14. `['arXiv'24]` VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation [[PDF](https://arxiv.org/pdf/2408.16730)]
+15. `['NeurIPS'25]` StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant [[PDF](https://arxiv.org/pdf/2505.05467)]
+15. `['arXiv'25]` Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI [[PDF](https://arxiv.org/pdf/2507.10510)]
+
+
 
 ### Datasets and Benchmark
 1. `['arXiv.'25]`LongViTU: Instruction Tuning for Long-Form Video Understanding [[PDF](https://arxiv.org/pdf/2501.05037)], [[Code](https://rujiewu.github.io/LongViTU.github.io/)]
@@ -58,16 +67,19 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 3. `['arXiv'25]`StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2411.03628)], [[Code](https://github.com/THUNLP-MT/StreamingBench)]
 4. `['arXiv'25]`Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method [[PDF](https://arxiv.org/pdf/2501.00584v1)], [[Code](https://videochat-online.github.io/)]
 5. `['arXiv'24]`Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams [[PDF](https://arxiv.org/pdf/2406.08085)], [[Code](https://invinciblewyq.github.io/vstream-page/)]
+6. `['ICLR'25]` SVBENCH: A BENCHMARK WITH TEMPORAL MULTI TURN DIALOGUES FOR STREAMING VIDEO UNDER STANDING [[PDF](https://arxiv.org/pdf/2502.10810)], [[Code](https://yzy-bupt.github.io/SVBench/)]
+7. `['arXiv'23]` BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed Videos [[PDF](https://arxiv.org/pdf/2312.08859)], [[Code](https://chenfeng-bristol.github.io/BVI-Artefact/)]
+8. `['arXiv'23]` Bitstream-corrupted Video Recovery:A Novel Benchmark Dataset and Method [[PDF](https://arxiv.org/pdf/2309.13890)], [[Code](https://github.com/LIUTIGHE/BSCV-Dataset)]
 
 
 ### Challenges and Future Directions
 
 
-## 🗓️ Timeline
+## 🗓�? Timeline
 - 2025-09-01: Repo initialized
 - 2025-09-05: First batch of papers added
 
 ## 🔥 TODO
-- [ ] Add 2024–2025 survey papers
+- [ ] Add 2024�?2025 survey papers
 - [ ] Build timeline figure
 - [ ] Add datasets section
