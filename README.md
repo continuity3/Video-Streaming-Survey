@@ -1,6 +1,7 @@
 # Video-Streaming-Survey
 
-# Awesome Next-Gen Video Streaming ????????
+# Awesome Next-Gen Video Streaming :rocket:
+
 
 ![banner](docs/images/video_streaming_banner.png)
 This is a repository for collecting resources about **Video Streaming** and its **next-generation evolution**.  
@@ -9,7 +10,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 **Multimodal Large Models (VLMs/VLAs)** and **intelligent production devices**.
 
 
-## ?? Table of Contents
+## :fire: Table of Contents
 - [Introduction](#introduction)
 - [Traditional Methods](#traditional-methods)
 - [Machine Learning-based Methods](#machine-learning-based-methods)
@@ -17,7 +18,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Challenges and Future Directions](#challenges-and-future-directions)
 
-## ?? Paper List
+## :scroll: Paper List
 ### Survey of Streaming Video
  1. `['ACM'24]` An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial [[PDF](https://arxiv.org/pdf/2403.05192)]
  2. `['COMSNETS'24]` Quality of Experience in Video Streaming: Status Quo, Pitfalls, and Guidelines [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10427330)]
@@ -75,11 +76,11 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 ### Challenges and Future Directions
 
 
-## ?? Timeline
+## :toolbox: Timeline
 - 2025-09-01: Repo initialized
 - 2025-09-05: First batch of papers added
 
-## ?? TODO
+## :bulb: TODO
 - [ ] Add 2024â€?2025 survey papers
 - [ ] Build timeline figure
 - [ ] Add datasets section
