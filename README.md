@@ -22,6 +22,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 ### Survey of Streaming Video
  1. `['ACM'24]` An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial [[PDF](https://arxiv.org/pdf/2403.05192)]
  2. `['COMSNETS'24]` Quality of Experience in Video Streaming: Status Quo, Pitfalls, and Guidelines [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10427330)]
+ 3. `['arXiv'23]` UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges [[PDF](https://arxiv.org/pdf/2311.00082)]
+ 
 
 ### Traditional Methods
  1. `['arXiv'13]` Probe and Adapt: Rate Adaptation for HTTP Video Streaming At Scale [[PDF](https://arxiv.org/pdf/1305.0510)]
@@ -58,7 +60,11 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 13. `['arXiv'24]` Streaming Long Video Understanding with Large Language Models [[PDF](https://arxiv.org/pdf/2405.16009)]
 14. `['arXiv'24]` VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation [[PDF](https://arxiv.org/pdf/2408.16730)]
 15. `['NeurIPS'25]` StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant [[PDF](https://arxiv.org/pdf/2505.05467)]
-15. `['arXiv'25]` Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI [[PDF](https://arxiv.org/pdf/2507.10510)]
+16. `['arXiv'25]` Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI [[PDF](https://arxiv.org/pdf/2507.10510)]
+17. `['arXiv'25]` Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs [[PDF](https://arxiv.org/pdf/2502.15457)]
+18. `['arXiv'24]` Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU [[PDF](https://arxiv.org/pdf/2409.09086)]
+19. `['arXiv'25]` StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[PDF](arxiv.org/pdf/2509.24871)], [[Code](https://github.com/MCG-NJU/StreamForest)]
+
 
 
 
@@ -74,7 +80,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 
 
 ### Challenges and Future Directions
-
+ 1. `['IEEE Open Journal of the Communications Society'24]` Real-Time Immersive Aerial Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10668820)]
+ 2. `['MDPI'24]` A Survey on Video Streaming for Next-Generation Vehicular Networks[[PDF](https://www.mdpi.com/2079-9292/13/3/649)]
 
 ## :toolbox: Timeline
 - 2025-09-01: Repo initialized
