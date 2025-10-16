@@ -76,7 +76,9 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 29. `['arXiv'23]`Audio-Visual LLM for Video Understanding[[PDF](https://arxiv.org/pdf/2312.06720)]
 30. `['CVPR'24]`Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis[[PDF](https://arxiv.org/pdf/2405.21075)]
 31. `['arXiv'24]`SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models[[PDF](https://arxiv.org/pdf/2407.15841)]
-32. 32.`['IEEE Transactions on Pattern Analysis and Machine Intelligence'24]`MovieChat+: Question-aware Sparse Memory for Long Video Question Answering[PDF]https://arxiv.org/pdf/2404.17176]
+32. `['IEEE Transactions on Pattern Analysis and Machine Intelligence'24]`MovieChat+: Question-aware Sparse Memory for Long Video Question Answering[PDF](https://arxiv.org/pdf/2404.17176)]
+33. `['Neural Information Processing Systems'24]`E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding[PDF](https://arxiv.org/pdf/2409.18111)]
+34. `['CVPR'23]`TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding[PDF](https://arxiv.org/pdf/2312.02051)]
 
 
 
