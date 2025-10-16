@@ -79,7 +79,12 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 32. `['IEEE Transactions on Pattern Analysis and Machine Intelligence'24]`MovieChat+: Question-aware Sparse Memory for Long Video Question Answering[[PDF](https://arxiv.org/pdf/2404.17176)]
 33. `['Neural Information Processing Systems'24]`E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding[[PDF](https://arxiv.org/pdf/2409.18111)]
 34. `['CVPR'23]`TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding[[PDF](https://arxiv.org/pdf/2312.02051)]
-35. `['CVPR'24]Streaming Dense Video Captioning[[PDF](https://arxiv.org/pdf/2404.01297)]
+35. `['CVPR'24]`Streaming Dense Video Captioning[[PDF](https://arxiv.org/pdf/2404.01297)]
+36. `['IEEE transactions on multimedia'23]`Optimal Volumetric Video Streaming With Hybrid Saliency Based Tiling[[PDF](https://www.semanticscholar.org/paper/Optimal-Volumetric-Video-Streaming-With-Hybrid-Li-Zhang/c532e2d428c9e89c5b6f5eb61e8e778646cad01a)]
+37. `['Symposium on Networked Systems Design and Implementation'22]`YuZu: Neural-Enhanced Volumetric Video Streaming[[PDF](https://www.semanticscholar.org/paper/YuZu%3A-Neural-Enhanced-Volumetric-Video-Streaming-Zhang-Wang/b63dafaabe7f795fd87805f6dd08a72159b7d44f)]
+38. `['Workshop on Mobile Computing Systems and Applications'21]`Efficient Volumetric Video Streaming Through Super Resolution[[PDF](https://www.semanticscholar.org/paper/Efficient-Volumetric-Video-Streaming-Through-Super-Zhang-Wang/b07fe2af7095cf92ce35e12dcdd0d06e056fd5bc)]
+39. `['ACM/IEEE International Conference on Mobile Computing and Networking'20]`ViVo: visibility-aware mobile volumetric video streaming[[PDF](https://www.semanticscholar.org/paper/ViVo%3A-visibility-aware-mobile-volumetric-video-Han-Liu/c7c9e858cad06e895ffcda8c42b20b89d83a9990)]
+40. `['IEEE Open Journal of the Computer Society'20]`Fuzzy Logic-Based Adaptive Point Cloud Video Streaming[[PDF](https://ieeexplore.ieee.org/ielx7/8782664/8821528/09130833.pdf?tag=1)]
 
 
 
