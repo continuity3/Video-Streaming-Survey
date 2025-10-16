@@ -64,6 +64,16 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 17. `['arXiv'25]` Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs [[PDF](https://arxiv.org/pdf/2502.15457)]
 18. `['arXiv'24]` Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU [[PDF](https://arxiv.org/pdf/2409.09086)]
 19. `['arXiv'25]` StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[PDF](arxiv.org/pdf/2509.24871)], [[Code](https://github.com/MCG-NJU/StreamForest)]
+20. `['CVPR'24]` MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding [[PDF](https://arxiv.org/pdf/2404.05726)], [[Code](https://github.com/boheumd/MA-LMM)]
+21. `['ICLR'25]` Understanding Long Videos with Multimodal Language Models [[PDF](https://arxiv.org/abs/2403.16998)], [[Code](https://github.com/kahnchana/mvu)]
+22. `['CVPR'25]` Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding [[PDF](https://arxiv.org/pdf/2409.14485)], [[Code](https://github.com/VectorSpaceLab/Video-XL)]
+23. `['ECCV'24]` LongVLM: Efficient Long Video Understanding via Large Language Models [[PDF](https://arxiv.org/pdf/2404.03384)], [[Code](https://github.com/ziplab/LongVLM)]
+24. `['ICLR'25]` Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge[[PDF](https://arxiv.org/pdf/2501.13468)], [[Code](https://github.com/hmxiong/StreamChat)]
+25. `['ICLR'25]` LongVILA: Scaling Long-Context Visual Language Models for Long Videos[[PDF](https://arxiv.org/pdf/2408.10188)], [[Code](https://github.com/NVlabs/VILA/tree/main/longvila)]
+26. `['ICLR'25]` TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning[[PDF](https://arxiv.org/pdf/2410.19702)], [[Code](https://github.com/OpenGVLab/TimeSuite)]
+27. `['arXiv'25]` LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval[[PDF](https://arxiv.org/abs/2505.15269)]
+28. `['arXiv'25]` StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding[[PDF](https://arxiv.org/pdf/2411.03628)], [[Code](https://github.com/THUNLP-MT/StreamingBench)]
+29. `['ICLR'25]` Streaming Video Question-Answering with In-context Video KV-Cache Retrieval[[PDF](https://arxiv.org/pdf/2503.00540)]
 
 
 
@@ -88,6 +98,6 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 - 2025-09-05: First batch of papers added
 
 ## :bulb: TODO
-- [ ] Add 2024â€?2025 survey papers
+- [ ] Add 2024ï¿½?2025 survey papers
 - [ ] Build timeline figure
 - [ ] Add datasets section
