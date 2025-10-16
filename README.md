@@ -79,6 +79,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 32. `['IEEE Transactions on Pattern Analysis and Machine Intelligence'24]`MovieChat+: Question-aware Sparse Memory for Long Video Question Answering[PDF](https://arxiv.org/pdf/2404.17176)]
 33. `['Neural Information Processing Systems'24]`E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding[PDF](https://arxiv.org/pdf/2409.18111)]
 34. `['CVPR'23]`TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding[PDF](https://arxiv.org/pdf/2312.02051)]
+35. `['CVPR'24]Streaming Dense Video Captioning[PDF](https://arxiv.org/pdf/2404.01297)]
 
 
 
