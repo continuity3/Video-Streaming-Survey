@@ -74,6 +74,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 27. `['arXiv'25]` LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval[[PDF](https://arxiv.org/abs/2505.15269)]
 28. `['ICLR'25]` Streaming Video Question-Answering with In-context Video KV-Cache Retrieval[[PDF](https://arxiv.org/pdf/2503.00540)]
 29. `['arXiv'23]`Audio-Visual LLM for Video Understanding[[PDF](https://arxiv.org/pdf/2312.06720)]
+30. `['CVPR'24]`Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis[[PDF](https://arxiv.org/pdf/2405.21075)]
 
 
 
