@@ -73,7 +73,7 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
 26. `['ICLR'25]` TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning[[PDF](https://arxiv.org/pdf/2410.19702)], [[Code](https://github.com/OpenGVLab/TimeSuite)]
 27. `['arXiv'25]` LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval[[PDF](https://arxiv.org/abs/2505.15269)]
 28. `['ICLR'25]` Streaming Video Question-Answering with In-context Video KV-Cache Retrieval[[PDF](https://arxiv.org/pdf/2503.00540)]
-29. `['arXiv'23]`Audio-Visual LLM for Video Understanding[[PDF]https://arxiv.org/pdf/2312.06720]
+29. `['arXiv'23]`Audio-Visual LLM for Video Understanding[[PDF](https://arxiv.org/pdf/2312.06720)]
 
 
 
