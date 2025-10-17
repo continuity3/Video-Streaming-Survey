@@ -23,6 +23,8 @@ classic streaming techniques and **modern AI/ML-based methods**, especially the 
  1. `['ACM'24]` An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial [[PDF](https://arxiv.org/pdf/2403.05192)]
  2. `['COMSNETS'24]` Quality of Experience in Video Streaming: Status Quo, Pitfalls, and Guidelines [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10427330)]
  3. `['arXiv'23]` UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges [[PDF](https://arxiv.org/pdf/2311.00082)]
+ 4. '['IEEE Transactions on Circuits and Systems for Video Technology']'Streaming video over the Internet: approaches and directions [[PDF](https://ieeexplore.ieee.org/abstract/document/911156?casa_token=_GSTJ3oIrx8AAAAA:TGA2S-PzzOnvo2HGDOf17VQ0L8qUYI15w6Ms8qv8HrcTn4h2lcEM-thpFRqvm6APvAANliSqhQ)]
+ 5. `['CVPR'23]` Streaming video model [[PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Streaming_Video_Model_CVPR_2023_paper.html)]
  
 
 ### Traditional Methods
